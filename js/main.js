@@ -7,14 +7,14 @@ let jau;
 let atb; 
 let karogs; 
 // valstis arra
-
+// Kristaps Muižnieks
 var jautajumi = { 
     0: { jautajums: "Latvijas galvaspilsēta ir ?", atbildes: "Rīga|Maskava|Pēterburga|Jelgava", c: 0,flag:"https://www.countries-ofthe-world.com/flags-normal/flag-of-Latvia.png"}, 
     1: { jautajums: "Afganistānas galvaspilsēta ir ?", atbildes: "Luanda|Maskava|Kabula|Jelgava", c: 2,flag:"https://www.countries-ofthe-world.com/flags-normal/flag-of-Afghanistan.png"}, 
     2: { jautajums: "Albānijas galvaspilsēta ir ?", atbildes: "Tirāna|Maskava|Pēterburga|Jelgava", c: 0,flag:"https://www.countries-ofthe-world.com/flags-normal/flag-of-Albania.png"}, 
     3: { jautajums: "Alžīrijas galvaspilsēta ir ?", atbildes: "Rīga|Luanda|Pēterburga|Alžīra", c: 3,flag:"https://www.countries-ofthe-world.com/flags-normal/flag-of-Algeria.png"}, 
     4: { jautajums: "Andoras galvaspilsēta ir ?", atbildes: "Rīga|Andora la Velja|Pēterburga|Buenosairesa", c: 1,flag:"https://www.countries-ofthe-world.com/flags-normal/flag-of-Andorra.png"}, 
-    5: { jautajums: "Angola galvaspilsēta ir ?", atbildes: "Luanda|Maskava|Pēterburga|Jelgava", c: 0,flag:"https://www.countries-ofthe-world.com/flags-normal/flag-of-Angola.png"}, 
+    5: { jautajums: "Angolas galvaspilsēta ir ?", atbildes: "Luanda|Maskava|Pēterburga|Jelgava", c: 0,flag:"https://www.countries-ofthe-world.com/flags-normal/flag-of-Angola.png"}, 
     6: { jautajums: "Argentīnas galvaspilsēta ir ?", atbildes: "Rīga|Maskava|Pēterburga|Buenosairesa", c: 3,flag:"https://www.countries-ofthe-world.com/flags-normal/flag-of-Argentina.png"}, 
     7: { jautajums: "Armēnijas galvaspilsēta ir ?", atbildes: "Rīga|Erevāna|Pēterburga|Jelgava", c: 1,flag:"https://www.countries-ofthe-world.com/flags-normal/flag-of-Armenia.png"}, 
     8: { jautajums: "ASV galvaspilsēta ir ?", atbildes: "Rīga|Maskava|Pēterburga|Vašingtona", c: 3,flag:"https://www.countries-ofthe-world.com/flags-normal/flag-of-United-States-of-America.png"}, 
